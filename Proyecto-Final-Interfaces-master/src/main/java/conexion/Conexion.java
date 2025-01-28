@@ -13,6 +13,7 @@ import java.sql.SQLException;
  * @author alumno
  */
 public class Conexion {
+
     public Connection Conexion() throws SQLException {
         String url = "jdbc:mysql://localhost/tienda";
         String usuario = "johann";

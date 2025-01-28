@@ -203,15 +203,15 @@ public class EntreCodigos extends javax.swing.JFrame {
     }//GEN-LAST:event_imprimirActionPerformed
 
     private void altasActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_altasActionPerformed
-        
+
     }//GEN-LAST:event_altasActionPerformed
 
     private void bajasActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_bajasActionPerformed
-        
+
     }//GEN-LAST:event_bajasActionPerformed
 
     private void modificacionesActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_modificacionesActionPerformed
-        
+
     }//GEN-LAST:event_modificacionesActionPerformed
 
     private void volverActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_volverActionPerformed
@@ -230,7 +230,7 @@ public class EntreCodigos extends javax.swing.JFrame {
     }//GEN-LAST:event_entreCodigoActionPerformed
 
     private void porCodigoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_porCodigoActionPerformed
-        
+
     }//GEN-LAST:event_porCodigoActionPerformed
 
     public void buscarEntreDosCodigos() {
